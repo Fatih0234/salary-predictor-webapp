@@ -4,15 +4,12 @@
 
 
 <p align="left">
-Hey there, you can directly go to **my_analysis.ipynb** and get to see my answer for question Q3.2
-"- 3.2 Type of Travel: Business travel olan ve 18 yaş üzerindeki müşterileri filtreleyebilir misin?
-Veriyi analiz ettiğinde bu müşteri segmentinde “satisfaction” verisinin olumlu ya da olumsuz
-olmasına etki eden en büyük faktörler nelerdir?"
+Hey there in this <a href="https://salary-predictor-webapp-fatihkarahan.streamlit.app/" >webapp</a>, I have used the stackoverflow software engineering survey results which you can find here => https://survey.stackoverflow.co/ to build a salary predictor app where you specify the country, years of experience etc. and get the estimated salary by using DecisionTreeRegressor. Check out the app and give me your thoughts about it.
 </p>
 
-- 🌱 I’m currently learning **ML Algorithms, Data Analysis**
+- 🌱 I’m currently learning **ML Algorithms, Cloud Computing, Data Modelling, Database Management, Data Analysis**
 
-- 💬 Ask me about **python, data science and webscrapping** 
+- 💬 Ask me about **python, data science, cloud-computing and webscrapping** 
 
 - 📫 How to reach me **sekanti02@gmail.com**
 
