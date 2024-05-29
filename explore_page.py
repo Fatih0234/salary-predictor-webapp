@@ -29,8 +29,6 @@ def clean_education(x):
         return 'Post grad'
     return 'Less than a Bachelors'
 
-
-@st.cache_data
 def load_data():
     df = pd.read_csv("survey_results_public.csv")
     df = df[["Country", "EdLevel", "YearsCodePro", "Employment", "ConvertedCompYearly"]]
